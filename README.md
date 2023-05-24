@@ -47,7 +47,7 @@ bot = telebot.TeleBot(api)
 Clone the project
 
 ```bash
-  git clone https://github.com/zarlicho/chatGPT-telegram.git
+  git clone https://github.com/Eri-Devs/chatGPT-telegram
 ```
 
 Go to the project directory
