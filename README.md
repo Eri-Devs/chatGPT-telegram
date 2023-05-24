@@ -59,7 +59,7 @@ Go to the project directory
 Start the program
 
 ```bash
-  python main.py
+  python bot.py
 ```
 
 
